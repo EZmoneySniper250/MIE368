@@ -1,10 +1,10 @@
 # Toronto Fire Truck Optimization project
 
-#Background and Problem Statement
+# Background and Problem Statement
 
 The fire incident is one of the most common and dangerous disasters that threaten people’s lives. In every city, the government always spent huge amounts of human and financial resources to solve it. The project is focused on making an optimization model on finding the minimum number of the required fire trucks for each fire station that can meet daily requirements of dealing with fire incidents happening in Toronto.
 
-#Data and Methods
+Data and Methods
 
 The team used three datasets for the project: the fire incidents data, which contains the coordinates and dates of all fire incidents; the fire station data, which contains the coordinates of all fire stations; the fire run-areas data, which contains the geometry for all fire run-service areas. All data is for the City of Toronto in 2016 and 2017, downloaded from Toronto Open Data Catalogue.
 
