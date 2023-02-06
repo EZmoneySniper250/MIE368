@@ -1,6 +1,6 @@
 # Toronto Fire Truck Optimization project
 
-## Background and Problem Statement 
+### Background and Problem Statement 
 
 The fire incident is one of the most common and dangerous disasters that threaten people’s lives. In every city, the government always spent huge amounts of human and financial resources to solve it. The project is focused on making an optimization model on finding the minimum number of the required fire trucks for each fire station that can meet daily requirements of dealing with fire incidents happening in Toronto.
 
